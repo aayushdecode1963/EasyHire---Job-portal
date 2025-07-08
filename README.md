@@ -21,7 +21,7 @@ To run Job Portal locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/EasyHire---Job-portal.git
+   git clone https://github.com/aayushdecode1963/EasyHire---Job-portal.git
 
 2. Navigate to the project directory:
 
