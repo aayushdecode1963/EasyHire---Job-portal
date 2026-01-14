@@ -1,6 +1,6 @@
 # EasyHire - Job portal 
 
-EasyHire is a modern, responsive job portal that connects job seekers with recruiters, making the hiring process seamless and efficient.. Built using the MERN stack (MongoDB, Express.js, React, Node.js), along with Firebase Authentication and Tailwind CSS, this portal provides a seamless experience for users exploring career opportunities.
+EasyHire is a modern, responsive job portal that connects job seekers with recruiters, making the hiring process seamless and efficient.. Built using the MERN stack (MongoDB, Express.js, React, Node.js), along with JWT Authentication, this portal provides a seamless experience for users exploring career opportunities.
 
 ## Features
 
@@ -38,9 +38,9 @@ To run Job Portal locally, follow these steps:
 4. Create a `.env` file in the root directory and add the required environment variables:
 
    ```env
-   REACT_APP_API_KEY=your_firebase_api_key
-   REACT_APP_AUTH_DOMAIN=your_firebase_auth_domain
-   REACT_APP_PROJECT_ID=your_firebase_project_id
+   REACT_APP_API_KEY=your_jwt_api_key
+   REACT_APP_AUTH_DOMAIN=your_jwt_auth_domain
+   REACT_APP_PROJECT_ID=your_jwt_project_id
    ```
 
 5. Start the development server:
